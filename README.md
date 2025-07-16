@@ -19,13 +19,16 @@
 
 ---
 
-## 💖 My Toolbox ~
+## 🛠️ My Toolbox ~
 
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-php-a-general-purpose-scripting-language-geared-towards-web-development-logo-color-tal-revivo.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-filled/50/linux.png" alt="Linux" style="background-color:white; border-radius:10px;" />
+</p>
 
 ---
 
@@ -50,14 +53,13 @@
   </a>
   <a href="https://instagram.com/_ss.sangy" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
 </p>
 
 
 ---
 
 <!-- GitHub Profile Stats -->
-<h2 align="center">✨ My GitHub Activity ~ </h2>
+✨ My GitHub Activity ~ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ss-sangy7&show_icons=true&theme=rose_pine&count_private=true&hide_border=true&icon_color=FFC0CB&title_color=ff79c6" alt="GitHub Stats" />
