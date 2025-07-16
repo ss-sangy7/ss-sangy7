@@ -1,11 +1,11 @@
 ## Hi there 👋, nice to meet you, they call me Mary Sharleen
-<p align= "center"><h3>Just a geek trying to understand the tech world</h3></p>
+<p align="center"><h3>Just a geek trying to understand the tech world</h3></p>
 
 --- 
 
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+How's+it+Going;I'm+Sharleen+🌸;Welcome+to+my+Creative+Corner!;FFull+of+Code,+Books,+and+Dreams!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+How's+it+Going;I'm+Sharleen+🌸;Welcome+to+my+Creative+Corner!;FFFull+of+Code,+Books,+and+Dreams!" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharleen-mary-2342912bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marisharleen7@gmail.com)
 <p align="center">
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <a href="https://facebook.com/profile.php?id=61556515975600" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
   </a>
   <a href="https://twitter.com/_ss.sangy" target="_blank">
