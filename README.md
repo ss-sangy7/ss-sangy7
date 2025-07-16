@@ -1,5 +1,5 @@
 ## Hi there 👋, nice to meet you, they call me Mary Sharleen
-<center><h2>Just a geek trying to understand the tech world</h2></center>
+<p align= "center"><h3>Just a geek trying to understand the tech world</h3></p>
 
 --- 
 
@@ -12,10 +12,10 @@
 
 ## 🌼 About Me ~
 
-🌸 Passionate about learning web dev, linux, databases, and making cool things!  
-💻 Currently building an eLibrary website with PHP + JavaScript  
-📖 Lover of books, food, sports, aesthetics, and clean code  
-🌐 Exploring: GitHub, CISCO and backend logic!
+* 🌸 Passionate about learning web dev, linux, databases, and making cool things!  
+* 💻 Currently building an eLibrary website with PHP + JavaScript  
+* 📖 Lover of books, food, sports, aesthetics, and clean code  
+* 🌐 Exploring: GitHub, CISCO and backend logic!
 
 ---
 
@@ -41,6 +41,18 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharleen-mary-2342912bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marisharleen7@gmail.com)
+<p align="center">
+  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="https://twitter.com/_ss.sangy" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/_ss.sangy" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
+
 
 ---
 
