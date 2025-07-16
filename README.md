@@ -4,8 +4,8 @@
 --- 
 
 <!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+How's+it+Going;I'm+Sharleen+🌸;Welcome+to+my+Creative+Corner!;FFFull+of+Code,+Books,+and+Dreamss!" alt="Typing SVG" />
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+How's+it+Going;I'm+Sharleen+🌸;Welcome+to+my+Creative+Corner!;FFull+of+Code,+Books,+and+Dreams!" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,13 +21,8 @@
 
 ## 🛠️ My Toolbox ~
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-php-a-general-purpose-scripting-language-geared-towards-web-development-logo-color-tal-revivo.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/ios-filled/50/linux.png" alt="Linux" style="background-color:white; border-radius:10px;" />
+<p align="center" >
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,linux,git" />
 </p>
 
 ---
@@ -42,24 +37,21 @@
 
 ## 📬 Let's Connect ~ 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharleen-mary-2342912bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marisharleen7@gmail.com)
 <p align="center">
-  <a href="https://facebook.com/profile.php?id=61556515975600" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
-  </a>
-  <a href="https://twitter.com/_ss.sangy" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/_ss.sangy" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  <a href="https://facebook.com/profile.php?id=61556515975600"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a>
+  <a href="https://twitter.com/@ss_sangy"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/sharleen-mary-2342912bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/_ss.sangy"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@_ss.sangy"><img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" /></a>
+  <a href="mailto:marisharleen7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://discordapp.com/users/yourdiscordID"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
 </p>
-
 
 ---
 
 <!-- GitHub Profile Stats -->
-✨ My GitHub Activity ~ 
+
+## ✨ My GitHub Activity ~
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ss-sangy7&show_icons=true&theme=rose_pine&count_private=true&hide_border=true&icon_color=FFC0CB&title_color=ff79c6" alt="GitHub Stats" />
