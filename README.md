@@ -38,11 +38,11 @@
 ## 📬 Let's Connect ~ 
 
 <p align="center">
+  <a href="https://tiktok.com/@_ss.sangy"><img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" /></a>
   <a href="https://facebook.com/profile.php?id=61556515975600"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a>
   <a href="https://twitter.com/@ss_sangy"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/sharleen-mary-2342912bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/_ss.sangy"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://tiktok.com/@_ss.sangy"><img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" /></a>
   <a href="mailto:marisharleen7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
   <a href="https://discordapp.com/users/yourdiscordID"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
 </p>
