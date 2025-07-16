@@ -1,11 +1,11 @@
 ## Hi there 👋, nice to meet you, they call me Mary Sharleen
-<center><h2>A geek trying to understand the tech world</h2></center>
+<center><h2>Just a geek trying to understand the tech world</h2></center>
 
 --- 
 
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sharleen+🌸;Welcome+to+my+Creative+Corner!;Full+of+Code,+Books,+and+Dreams!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+How's+it+Going;I'm+Sharleen+🌸;Welcome+to+my+Creative+Corner!;FFull+of+Code,+Books,+and+Dreams!" alt="Typing SVG" />
 </p>
 
 ---
